@@ -1,7 +1,5 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Yeniceri98&show_icons=true">
 
-# Hello, i'm Ahmet Sami Yeniçeri 👋
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yeniceri98" alt="yeniceri98" /> </p>
 
 # Skills and Interests
